@@ -1,4 +1,4 @@
-module branchkit.local/plugins/basetypes
+module github.com/DrewBradfordXYZ/branchkit-plugin-basetypes
 
 go 1.24
 
