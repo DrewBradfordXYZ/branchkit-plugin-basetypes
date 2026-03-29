@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"branchkit.local/shared"
+	"github.com/branchkit/plugin-sdk-go"
 )
 
 func main() {
