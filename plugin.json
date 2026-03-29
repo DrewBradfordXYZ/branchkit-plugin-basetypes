@@ -1,0 +1,10 @@
+{
+  "id": "basetypes",
+  "name": "Basetypes",
+  "version": "3.0.0",
+  "description": "QuickBase form filling, field navigation, and app integration.",
+  "author": "Basetypes",
+  "run": "./basetypes-plugin",
+  "network": "localhost",
+  "capabilities": ["input"]
+}
