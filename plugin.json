@@ -2,7 +2,7 @@
   "id": "basetypes",
   "name": "Basetypes",
   "version": "3.0.0",
-  "description": "QuickBase form filling, field navigation, and app integration.",
+  "description": "Basetypes integration with BranchKit.",
   "author": "Basetypes",
   "run": "./basetypes-plugin",
   "network": "localhost",
